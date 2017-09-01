@@ -1,2 +1,2 @@
 # 80columns
-c++ that performs the word wrapping
+c++ script that performs the word wrapping
